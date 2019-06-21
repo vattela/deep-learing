@@ -1,3 +1,3 @@
-deep learing 
-対象データは、MNIST、CIFAR-10、不織布画像。 
+deep learing  
+対象データは、MNIST、CIFAR-10、不織布画像。  
 入力するデータはローカルにあるので、私の社内PC上でのみ動くものになっています。
